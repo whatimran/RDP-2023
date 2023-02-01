@@ -23,15 +23,20 @@ By Imran
 4. Then press **Add Secret**
 5. Now go to **Action > AWS (Left Menu) > Run Workflow**
 6. After building you will see Username & Password
+
 <img src="https://i.imgur.com/uqYO7QB.png" alt="ss" width="60%"/>
+
 7. To get your RDP IP go to https://dashboard.ngrok.com/cloud-edge/endpoints
+
 8. You'll get IP from there.
+
 <img src="https://i.imgur.com/gSpsoyt.png" alt="ss" width="60%"/>
 
 #### Third Step
 1. Search **Remote Desktop Connection** from Windows Start Menu and open.
 2. Put IP without **tcp://** and enter Username & click **Connect**.
 3. Later on, put the password for credential/auth.
+
 <img src="https://i.imgur.com/oDozqcR.png" alt="ss" width="40%"/>
 
 ## Screenshots
